@@ -1,7 +1,6 @@
 import sys
 import os
 import numpy as np
-from scipy.signal import savgol_filter
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
